@@ -49,7 +49,7 @@
         android:textAllCaps="false"
         android:fontFamily="@font/roboto_bold"
         android:textSize="18sp"
-        android:background="@color/primary_orange"/>
+        android:background="@drawable/button_border"/>
 
    <LinearLayout
        android:layout_weight="0.1"
